@@ -100,7 +100,7 @@ A table of open source consoles
 	<tr>
 		<td>Language Support</td>
 		<td>C++</td>
-		<td>C++<br>Java<br>Python</td>
+		<td>C++<br>Java<br>Python<br>Pine-2K</td>
 		<td>C++<br>Lua<br>Python<br>Basic<br>Scratch</td>
 		<td>C++</td>
 		<td>C++</td></tr>
