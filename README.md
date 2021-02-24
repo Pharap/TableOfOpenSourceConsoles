@@ -10,6 +10,7 @@ A table of open source consoles
 		<th><a href="https://www.espboy.com/">espBoy</a></th>
 		<th><a href="https://www.crowdsupply.com/byte-mix-labs/microbyte">microByte</a></th>
 		<th><a href="https://gamebuino.com/gamebuino-meta">Gamebuino<br>META</a></th>
+		<th><a href="https://www.adafruit.com/product/4242">Adafruit<br>PyGamer</a></th>
 	</tr>
 	<tr>
 		<td>Price</td>
@@ -18,6 +19,7 @@ A table of open source consoles
 		<td>$79</td>
 		<td>$60</td>
 		<td>99.90€</td>
+		<td>$39.95</td>
 	</tr>
 	<tr>
 		<td>Processor</td>
@@ -26,6 +28,7 @@ A table of open source consoles
 		<td>ESP8266<br>160MHz<br> 32-bit</td>
 		<td>ESP32<br>240MHz<br>32-bit</td>
 		<td>Cortex-M0+<br>48MHz<br>32-bit</td>
+		<td>ATSAMD51J19<br>120MHz<br>32-bit</td>
 	</tr>
 	<tr>
 		<td>Display</td>
@@ -33,6 +36,7 @@ A table of open source consoles
 		<td>2.0 inch<br>Color TFT<br>220x176</td>
 		<td>1.44 inch<br>Color TFT<br>128x128</td>
 		<td>1.3 inch<br>Color IPS<br>240x240</td>
+		<td>1.8 inch<br>Color<br>160x128</td>
 		<td>1.8 inch<br>Color<br>160x128</td>
 	</tr>
 	<tr>
@@ -42,6 +46,7 @@ A table of open source consoles
 		<td>4MB</td>
 		<td>16MB</td>
 		<td>256KB</td>
+		<td>512KB (built-in)<br>8MB (external)</td>
 	</tr>
 	<tr>
 		<td>RAM</td>
@@ -50,6 +55,7 @@ A table of open source consoles
 		<td>81KB</td>
 		<td>8MB</td>
 		<td>32KB</td>
+		<td>192KB</td>
 	</tr>
 	<tr>
 		<td>EEPROM</td>
@@ -58,6 +64,7 @@ A table of open source consoles
 		<td>4096B</td>
 		<td>?</td>
 		<td>4096B</td>
+		<td>0</td>
 	</tr>
 	<tr>
 		<td>Micro SD Slot</td>
@@ -66,17 +73,21 @@ A table of open source consoles
 		<td>No</td>
 		<td>Yes</td>
 		<td>Yes</td>
+		<td>Yes</td>
 	</tr>
 	<tr>
 		<td>Battery Life</td>
-		<td>10h</td><td>?</td><td>6h</td>
+		<td>10h</td>
+		<td>?</td><td>6h</td>
 		<td>6.5h</td>
 		<td>16h</td>
+		<td>?</td>
 	</tr>
 	<tr>
 		<td>Sound Support</td>
 		<td>Piezo</td>
 		<td>Speaker<br>1/8" Jack</td>
+		<td>Speaker</td>
 		<td>Speaker</td>
 		<td>Speaker</td>
 		<td>Speaker</td>
@@ -88,6 +99,7 @@ A table of open source consoles
 		<td>Micro USB<br>Wifi</td>
 		<td>Type C<br>Wifi BT</td>
 		<td>Micro USB</td>
+		<td>Micro USB</td>
 	</tr>
 	<tr>
 		<td>Number of Buttons</td>
@@ -96,6 +108,7 @@ A table of open source consoles
 		<td>8</td>
 		<td>11</td>
 		<td>8</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>Language Support</td>
@@ -103,12 +116,15 @@ A table of open source consoles
 		<td>C++<br>Java<br>Python<br>Pine-2K</td>
 		<td>C++<br>Lua<br>Python<br>Basic<br>Scratch</td>
 		<td>C++</td>
-		<td>C++</td></tr>
+		<td>C++</td>
+		<td>C++<br>Python</td>
+	</tr>
 	<tr>
 		<td>Open Source</td>
 		<td>Yes</td>
 		<td>?</td>
 		<td>?</td>
+		<td>Yes</td>
 		<td>Yes</td>
 		<td>Yes</td>
 	</tr>
@@ -119,6 +135,7 @@ A table of open source consoles
 		<td>Jul 2019?</td>
 		<td>Jul 2021</td>
 		<td>Feb 2018</td>
+		<td>May 2019</td>
 	</tr>
 	<tr>
 		<td>Estimated Games</td>
@@ -127,5 +144,6 @@ A table of open source consoles
 		<td>10?</td>
 		<td>?</td>
 		<td>10?</td>
+		<td>?</td>
 	</tr>
 </table>
